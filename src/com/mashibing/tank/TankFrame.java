@@ -24,4 +24,5 @@ public class TankFrame extends Frame {
     //public void panit(Graphics g){
     //    System.out.println("panit");
     //}
+
 }
